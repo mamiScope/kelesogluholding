@@ -1,0 +1,285 @@
+[01-May-2019 15:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[02-May-2019 04:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[07-May-2019 05:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[12-May-2019 15:24:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[22-Jul-2019 05:12:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[09-Sep-2019 11:08:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[10-Sep-2019 21:20:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[13-Sep-2019 02:37:41 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[14-Sep-2019 12:45:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[03-Oct-2019 09:47:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[04-Oct-2019 09:51:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[05-Oct-2019 10:07:34 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[06-Oct-2019 10:08:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[24-Oct-2019 03:55:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[03-Dec-2019 17:34:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[08-Dec-2019 03:49:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[09-Dec-2019 05:08:34 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[10-Dec-2019 07:06:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[11-Dec-2019 09:36:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[22-Dec-2019 15:08:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/en/wp-content/themes/kelesoglu_dev/header.php on line 15
+[03-Mar-2020 11:20:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[07-Mar-2020 19:41:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[14-Apr-2020 16:04:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[15-May-2020 14:51:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-May-2020 18:55:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[18-May-2020 02:25:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[19-May-2020 06:07:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[20-May-2020 13:16:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[22-May-2020 09:57:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[22-May-2020 10:06:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[14-Jun-2020 06:51:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[15-Jun-2020 09:07:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Jun-2020 22:59:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[18-Jun-2020 05:16:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[19-Jun-2020 08:43:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[27-Jun-2020 04:25:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[14-Jul-2020 16:01:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[15-Jul-2020 16:37:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Jul-2020 18:09:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Jul-2020 19:05:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[30-Jul-2020 07:13:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[03-Aug-2020 22:25:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[04-Sep-2020 10:25:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Sep-2020 09:06:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Sep-2020 12:32:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Sep-2020 14:12:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Sep-2020 19:03:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Sep-2020 21:04:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[16-Sep-2020 23:02:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Sep-2020 00:35:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Sep-2020 01:54:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Sep-2020 03:58:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Sep-2020 05:49:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Sep-2020 07:34:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[17-Sep-2020 08:57:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[18-Sep-2020 08:31:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
+[28-Sep-2020 07:42:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php:15
+Stack trace:
+#0 /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/index.php(6): include()
+#1 {main}
+  thrown in /home/u7801980/kelesogluholding.com/ru/wp-content/themes/kelesoglu_dev/header.php on line 15
