@@ -27,7 +27,7 @@
             <img src="<?php bloginfo('template_directory'); ?>/assets/images/blank.gif" data-src="<?php bloginfo('template_directory'); ?>/assets/images/home_1_01.jpg"/>
         </div>
         <div class="ms-slide" data-delay="4">
-            <img src="<?php bloginfo('template_directory'); ?>/assets/images/blank.gif" data-src="<?php bloginfo('template_directory'); ?>/assets/images/kelesoglu_slider_2.jpg"/>
+            <img src="<?php bloginfo('template_directory'); ?>/assets/images/blank.gif" data-src="<?php bloginfo('template_directory'); ?>/assets/images/home_41_v3.png"/>
         </div>
         <div class="ms-slide" data-delay="4">
             <img src="<?php bloginfo('template_directory'); ?>/assets/images/blank.gif" data-src="<?php bloginfo('template_directory'); ?>/assets/images/home_3.jpg"/>

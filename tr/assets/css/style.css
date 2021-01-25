@@ -1456,3 +1456,38 @@ input{ font-family: Montserrat; font-size:20px; font-weight: 200;}
     color:  #23a9f0;
     font-weight: bold;
 }
+.container.projectFullWidth {
+    width: 100%!important;
+    margin-bottom: 20px;
+}
+.container .yellow_title {
+    text-align: center;
+    color: #ecc025!important;
+    font-size: 38px;
+    margin-top: 10px;
+}
+.container.projectFullWidth .projects-title-left {
+    transform: translate(0%, -50%);
+        left: 140px;
+    top: 50%;
+}
+.container.projectFullWidth .projects-title-right {
+    transform: translate(0%, -50%);
+        right: 5%;
+    top: 50%;
+}
+
+.container.projectFullWidth .projects-title-left p{
+    text-align: center;
+}
+.container.projectFullWidth .projects-title-right p {
+    text-align: center;
+}
+.container.projectFullWidth .projects-title-right img{
+  max-width: 250px;
+    width: 250px;  
+}
+.container.projectFullWidth .projects-title-left img{
+  max-width: 300px;
+    width: 300px;  
+}
