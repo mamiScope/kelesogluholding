@@ -24,7 +24,7 @@ $slideData = get_mobile();
 <div class="light_row">
 	<div class="container projectFullWidth">
 		<div class="full_width projects-container">
-            <a href="http://cennetkoru.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/assets/images/cennetkoruimage.jpg"/></a>
+            <a href="http://cennetkoru.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/assets/images/cennetkoru-fullwidt.png"/></a>
             <div class="projects-title-right">
             <img src="<?php bloginfo('template_directory'); ?>/assets/images/cennetkoru_disi.png"/>
             <p>Gel.Göl.Yaşa !</p></div>

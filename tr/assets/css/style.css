@@ -1460,6 +1460,12 @@ input{ font-family: Montserrat; font-size:20px; font-weight: 200;}
     width: 100%!important;
     margin-bottom: 20px;
 }
+.container.projectFullWidth .full_width {
+    height: 100vh;
+}
+.container.projectFullWidth .projects-container img {
+    height: 100%;
+}
 .container .yellow_title {
     text-align: center;
     color: #ecc025!important;

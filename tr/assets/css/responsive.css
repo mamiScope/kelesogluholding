@@ -37,8 +37,22 @@
 	.pageslidedata.headSliderData{height: 69vh;}
 	.headSliderData.architectSliderData {padding-left: 14%;padding-right: 14%;}
 }
-
-
+@media (max-width: 1367px) and (min-width: 1025px){
+	.navigation-menu {
+		display: block!important;
+	}
+	.col-md-3 {
+		width: 100%!important;
+	}
+}
+@media (max-width: 1024) and (min-width: 1010px){
+	.navigation-menu {
+		display: block!important;
+	}
+	.col-md-3 {
+		width: 100%!important;
+	}
+}
 @media (max-width: 2799px) {
 	.sell-projects .sell-col > img {height: 550px;}
 	.sell-hover-container img.cennetkoru-img {top:31%;}
